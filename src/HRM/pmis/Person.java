@@ -1,10 +1,8 @@
-package HRM.pmis;
+package hrm.pmis;
 
-public class Person {
+public class person {
 
-	int id;
+	int id ;
 	String name;
-	
+
 }
-
-
